@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class Main {
+    public static int  testc(){
+       int  value = 2;
+       return value;
+    }
 }
